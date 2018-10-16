@@ -12,6 +12,7 @@
                 <Button Text="SwitchCell" Clicked="GoSwitchCellPage"/>
                 <Button Text="ViewCell" Clicked="GoViewCellPage"/>
                 <Button Text="ListView" Clicked="GoListViewPage"/>
+                <Button Text="ListViewButton" Clicked="GoListViewButtonPage"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
