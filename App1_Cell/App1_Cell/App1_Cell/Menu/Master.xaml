@@ -11,6 +11,7 @@
                 <Button Text="EntryCell" Clicked="GoEntryCellPage"/>
                 <Button Text="SwitchCell" Clicked="GoSwitchCellPage"/>
                 <Button Text="ViewCell" Clicked="GoViewCellPage"/>
+                <Button Text="ListView" Clicked="GoListViewPage"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
