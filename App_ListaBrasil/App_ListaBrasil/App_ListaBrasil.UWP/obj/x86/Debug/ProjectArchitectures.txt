@@ -1,1 +1,0 @@
-D:\Rodrigo\Prime\App_ListaBrasil\App_ListaBrasil\App_ListaBrasil.UWP\App_ListaBrasil.UWP.csproj;x86
