@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Vagas.Paginas.DeltalheVaga">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding NomeVaga}" FontSize="18" HorizontalOptions="Center" FontAttributes="Bold"/>
+            <Label Text="{Binding Empresa}" FontSize="10" HorizontalOptions="Center" TextColor="#DDDDDD" />
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Quantidade(Vaga):"/>
+                <Label Text="{Binding Quantidade}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Cidade:"/>
+                <Label Text="{Binding Cidade}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Salário:"/>
+                <Label Text="{Binding Salario}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Descrição:"/>
+                <Label Text="{Binding Descriçao}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Tipo Contratação:"/>
+                <Label Text="{Binding TipoContratacao}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Telefone:"/>
+                <Label Text="{Binding Telefone}"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Email:"/>
+                <Label Text="{Binding Email}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

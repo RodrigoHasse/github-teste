@@ -1,0 +1,12 @@
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\bin\Debug\netstandard2.0\App_Cinemix.deps.json
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\bin\Debug\netstandard2.0\App_Cinemix.dll
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\bin\Debug\netstandard2.0\App_Cinemix.pdb
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.csprojAssemblyReference.cache
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.AssemblyInfoInputs.cache
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.AssemblyInfo.cs
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.dll
+D:\Rodrigo\Prime\App_Cinemix\App_Cinemix\App_Cinemix\obj\Debug\netstandard2.0\App_Cinemix.pdb

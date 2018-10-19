@@ -1,0 +1,17 @@
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\bin\Debug\netstandard2.0\App_Vagas.deps.json
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\bin\Debug\netstandard2.0\App_Vagas.dll
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.csprojAssemblyReference.cache
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.AssemblyInfoInputs.cache
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.AssemblyInfo.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\Paginas\CadastroVagas.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\Paginas\ConsultaVagas.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\Paginas\DeltalheVaga.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\Paginas\MinhasVagasCadastradas.xaml.g.cs
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.dll
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\App_Vagas.pdb
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\bin\Debug\netstandard2.0\App_Vagas.pdb
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Rodrigo\Prime\App_Vagas\App_Vagas\App_Vagas\obj\Debug\netstandard2.0\Paginas\EditarVaga.xaml.g.cs
