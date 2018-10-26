@@ -9,7 +9,7 @@
         <ToolbarItem Icon="refresh.png" Text="Atualização lista de chats" Command="{Binding AtualizarCommand}"/>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <ListView ItemsSource="{Binding chats}">
+        <ListView ItemsSource="{Binding chats}" SelectedItem="{Binding SelectedItemChat, Mode=TwoWay}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

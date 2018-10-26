@@ -1,4 +1,5 @@
-﻿using System;
+﻿using App_NossoChat.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +13,11 @@ namespace App_NossoChat.View
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class Mensagem : ContentPage
 	{
-		public Mensagem ()
+		public Mensagem (Chat chat)
 		{
 			InitializeComponent ();
+
+            BindingContext = new ViewModel.MensagemViewModel(chat, SLMensagemContainer);
 		}
 	}
 }

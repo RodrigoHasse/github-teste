@@ -18,6 +18,24 @@ namespace App_NossoChat.ViewModel
             set {_chats = value; OnPropertyChanged("chats"); }
         }
 
+        private Chat _SelectedItemChat;
+
+        public Chat SelectedItemChat {
+            get { return _SelectedItemChat; }
+            set { _SelectedItemChat = value; OnPropertyChanged("SelectedItemChat");
+                GoPaginaMensagem(value);
+            }
+        }
+
+        private void GoPaginaMensagem(Chat chat)
+        {
+            if(chat != null)
+            {
+                SelectedItemChat = null;
+                ((NavigationPage)App.Current.MainPage).Navigation.PushAsync(new View.Mensagem(chat));
+            }
+        }
+
         public Command AdicionarCommand { get; set; }
         public Command OrdenarCommand { get; set; }
         public Command AtualizarCommand { get; set; }

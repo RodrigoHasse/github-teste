@@ -1,0 +1,1 @@
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt.UWP\App_Jwt.UWP.csproj;x86

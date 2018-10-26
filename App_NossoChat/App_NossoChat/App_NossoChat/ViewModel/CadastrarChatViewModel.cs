@@ -34,7 +34,7 @@ namespace App_NossoChat.ViewModel
 
                 var nav = (NavigationPage)App.Current.MainPage;
 
-                var Chats = (View.Chats)nav.CurrentPage;
+                var Chats = (View.Chats)nav.RootPage;
 
                 var ViewModel = (ChatsViewModel)Chats.BindingContext;
 

@@ -6,6 +6,7 @@ using System.ComponentModel;
 using System.Text;
 using Xamarin.Forms;
 using Newtonsoft.Json;
+using App_NossoChat.Util;
 
 namespace App_NossoChat.ViewModel
 {
@@ -41,6 +42,7 @@ namespace App_NossoChat.ViewModel
             }
             else
             {
+                UsuarioUtil.SetUsuarioLogado(usuarioLogado);
                 App.Current.Properties["LOGIN"] = JsonConvert.SerializeObject(usuarioLogado);
                 App.Current.MainPage = new NavigationPage(new View.Chats()) {BarBackgroundColor = Color.FromHex("#5ED055"), BarTextColor = Color.White};
             }

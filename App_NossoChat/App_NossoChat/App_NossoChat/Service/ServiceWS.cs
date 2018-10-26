@@ -109,7 +109,7 @@ namespace App_NossoChat.Service
             return false;
         }
 
-        public static List<Chat> GetMensagensChat(Chat chat)
+        public static List<Mensagem> GetMensagensChat(Chat chat)
         {
             var URL = EnderecoBase + "/chat/" + chat.id + "/msg";
 
@@ -123,7 +123,7 @@ namespace App_NossoChat.Service
 
                 if (conteudo.Length > 2)
                 {
-                    List<Chat> lista = JsonConvert.DeserializeObject<List<Chat>>(conteudo);
+                    List<Mensagem> lista = JsonConvert.DeserializeObject<List<Mensagem>>(conteudo);
                     return lista;
                 }
                 else
@@ -139,7 +139,7 @@ namespace App_NossoChat.Service
 
         public static bool InsertMensagemChat(Mensagem mensagem)
         {
-            var URL = EnderecoBase + "/Chat/" + mensagem.id_chat + "/msg";
+            var URL = EnderecoBase + "/chat/" + mensagem.id_chat + "/msg";
 
             FormUrlEncodedContent param = new FormUrlEncodedContent(new[] {
                 new KeyValuePair<string, string>( "mensagem", mensagem.mensagem ),

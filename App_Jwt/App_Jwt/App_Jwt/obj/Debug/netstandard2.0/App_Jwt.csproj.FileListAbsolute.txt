@@ -1,0 +1,12 @@
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\bin\Debug\netstandard2.0\App_Jwt.deps.json
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\bin\Debug\netstandard2.0\App_Jwt.dll
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.csprojAssemblyReference.cache
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.AssemblyInfoInputs.cache
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.AssemblyInfo.cs
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.dll
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\App_Jwt.pdb
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\bin\Debug\netstandard2.0\App_Jwt.pdb
+D:\Rodrigo\Prime\App_Jwt\App_Jwt\App_Jwt\obj\Debug\netstandard2.0\XamlC.stamp
